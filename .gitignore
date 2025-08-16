@@ -287,4 +287,4 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
-ExpenseTracker/Source/appsettings.json
+**/Source/appsettings.json
